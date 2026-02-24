@@ -59,7 +59,7 @@
 
                             <transformers>
                                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>uz.mybot.OrderBot</mainClass>
+                                    <mainClass>uz.mybot.App</mainClass>
                                 </transformer>
                             </transformers>
 
